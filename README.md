@@ -1,6 +1,6 @@
 ![LEDeej](https://cdn.thingiverse.com/assets/19/2b/5c/08/23/large_display_8d2f623b-5eba-4979-b0de-ecf53a4ab3e6.jpg)
 # LEDeej
-Deej but with RGB !
+[Deej](https://github.com/omriharel/deej) but with RGB !
 
 ## Hardware
 - Arduino Uno
